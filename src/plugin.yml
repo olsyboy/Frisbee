@@ -1,0 +1,10 @@
+name: Frisbee
+version: 1.0
+author: olsyboy
+main: me.olsyboy.frisbee.Main
+depend: [BKCommonLib]
+commands:
+  frisbee:
+    description: All Frisbee admin commands.
+    usage: Use /frisbee
+    permission: frisbee.admin
